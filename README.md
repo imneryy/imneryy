@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho FreeLancer
 - 🌱 Estudando React.js
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/imneryy">
